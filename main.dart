@@ -2,7 +2,7 @@ void main() {
   // =========================
   // DATA BARANG
   // =========================
-  String namaBarang = 'rokok on bold';
+  String namaBarang = 'tas ngampus';
   int jumlahBarang = 1;
   double hargaBarang = 250000.0;
   bool tersedia = true;
